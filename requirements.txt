@@ -1,0 +1,7 @@
+#the list of libraries that you"ll need for the app
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
